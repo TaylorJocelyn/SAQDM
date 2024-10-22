@@ -1,0 +1,7 @@
+evaluate_data/ref/cifar10.npz
+evaluate_data/cifar/fp32_uniform.npz
+evaluate_data/cifar/fp32_quad.npz
+reproduce/cifar10/data/cifar10_100step_uniform_trajectory.pth
+reproduce/cifar10/data/cifar10_100step_quad_trajectory.pth
+data/*
+reproduce/*
